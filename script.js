@@ -346,7 +346,8 @@ document.addEventListener('DOMContentLoaded', () => {
              "• ✉️ <strong>Email</strong>: <a href='mailto:sarbashree15@gmail.com'>sarbashree15@gmail.com</a><br>" +
              "• 📞 <strong>Phone</strong>: +91-9004485220<br>" +
              "• 📍 <strong>Location</strong>: Gurgaon, Haryana, India<br>" +
-             "• 🔗 <strong>LinkedIn</strong>: <a href='https://www.linkedin.com/in/sarbashree/' target='_blank'>linkedin.com/in/sarbashree</a>";
+             "• 🔗 <strong>LinkedIn</strong>: <a href='https://www.linkedin.com/in/sarbashreeray/' target='_blank' rel='noopener noreferrer'>linkedin.com/in/sarbashreeray</a><br>" +
+             "• 🌐 <strong>Website</strong>: <a href='https://sarbashreeray.github.io/sarbashreeray.me/' target='_blank' rel='noopener noreferrer'>sarbashreeray.github.io/sarbashreeray.me</a>";
     }
 
     // Churn / Stats / Achievements
